@@ -9,7 +9,7 @@ En el siguiente enlace tienen toda la bibliografía que usaremos para esta asign
 
 Soy Heber Ferreira, su profesor de Tecnología y me gustaría compartirles un poco de mí: 
 
-- Actualmente trabajo como profesor de la asignatura de tecnología 🔭, en el centro educativo IES TENERIFE
+- Actualmente trabajo como profesor de la asignatura de tecnología 🔭, en el centro educativo IES AET
 - Me gusta prácticar todo tipo de deportes, desde fútbol hasta la natación, da igual el ámbito deportivo, para mi lo importante es sentirse activo. 
 - Si quieres conocer más de mi CV [https://es.linkedin.com/HeberFerreiraInsua]
 
