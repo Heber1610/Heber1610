@@ -2,7 +2,7 @@
 # ¡Bienvenido al perfil del profesor de la asignatura de TECNOLOGÍA de 1º de BACHILLER! 👋
 
 
-En el siguiente enlace tienen toda la bibliografía que usaremos para esta asignatura [https://ull-mfp-aet.github.io/references.html]
+En el siguiente enlace tienen toda la bibliografía que usaremos para esta asignatura [https://ull.tecnología.resources.com]
 <br>
 <br>
 ## Por si no lo saben ##
