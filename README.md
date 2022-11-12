@@ -1,4 +1,15 @@
-### Hi there 👋
+### ¡Bienvenido a la organización de la asignatura TECNOLOGÍA de 1º de BACHILLER! 👋
+
+
+
+
+
+
+
+
+
+
+
 
 <!--
 **Heber1610/Heber1610** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
