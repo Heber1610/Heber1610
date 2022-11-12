@@ -1,8 +1,17 @@
-### ¡Bienvenido a la organización de la asignatura TECNOLOGÍA de 1º de BACHILLER! 👋
+
+# ¡Bienvenido a la organización de la asignatura TECNOLOGÍA de 1º de BACHILLER! 👋
 
 
+En el siguiente enlace tienen toda la bibliografía que usaremos para esta asignatura [https://ull-mfp-aet.github.io/references.html]
+<br>
+<br>
+## Por si no lo saben ##
 
+Soy Heber Ferreira, su profesor de Tecnología y me gustaría compartirles un poco de mí: 
 
+- Actualmente trabajo como profesor de la asignatura de tecnología 🔭, en el centro educativo IES TENERIFE
+- Me gusta prácticar todo tipo de deportes, desde fútbol hasta la natación, da igual el ámbito deportivo, para mi lo importante es sentirse activo. 
+- Si quieres conocer más de mi CV [https://es.linkedin.com/HeberFerreiraInsua]
 
 
 
@@ -22,6 +31,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
+- 😄 Pronouns: 
 - ⚡ Fun fact: ...
 -->
