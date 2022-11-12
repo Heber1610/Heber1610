@@ -1,5 +1,5 @@
 
-# ¡Bienvenido a la organización de la asignatura TECNOLOGÍA de 1º de BACHILLER! 👋
+# ¡Bienvenido al perfil del profesor de la asignatura TECNOLOGÍA de 1º de BACHILLER! 👋
 
 
 En el siguiente enlace tienen toda la bibliografía que usaremos para esta asignatura [https://ull-mfp-aet.github.io/references.html]
